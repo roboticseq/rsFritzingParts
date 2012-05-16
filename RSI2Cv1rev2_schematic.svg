@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Basic//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-basic.dtd">
+<svg version="1.1" baseProfile="basic" id="svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="0.900in"
+    height="1.350in"
+    viewBox="0 0 950 1350" xml:space="preserve">
+<g id="schematic">
+<rect id="connector0pin" x="100" y="200" fill="none"
+width="50" height="50"/>
+<rect id="connector1pin" x="100" y="300" fill="none"
+width="50" height="50"/>
+<rect id="connector2pin" x="100" y="400" fill="none"
+width="50" height="50"/>
+<rect id="connector3pin" x="100" y="500" fill="none"
+width="50" height="50"/>
+<rect id="connector4pin" x="100" y="600" fill="none"
+width="50" height="50"/>
+<rect id="connector5pin" x="100" y="700" fill="none"
+width="50" height="50"/>
+<rect id="connector6pin" x="100" y="900" fill="none"
+width="50" height="50"/>
+<rect id="connector7pin" x="100" y="1000" fill="none"
+width="50" height="50"/>
+<rect id="connector8pin" x="100" y="1100" fill="none"
+width="50" height="50"/>
+<rect id="connector9pin" x="100" y="1200" fill="none"
+width="50" height="50"/>
+<rect id="connector10pin" x="850" y="200" fill="none"
+width="50" height="50"/>
+<rect id="connector11pin" x="850" y="300" fill="none"
+width="50" height="50"/>
+<rect id="connector12pin" x="850" y="400" fill="none"
+width="50" height="50"/>
+<rect id="connector13pin" x="850" y="500" fill="none"
+width="50" height="50"/>
+<rect id="connector14pin" x="850" y="600" fill="none"
+width="50" height="50"/>
+<rect id="connector15pin" x="850" y="700" fill="none"
+width="50" height="50"/>
+<rect id="connector16pin" x="850" y="800" fill="none"
+width="50" height="50"/>
+<rect id="connector17pin" x="850" y="900" fill="none"
+width="50" height="50"/>
+<rect id="connector18pin" x="850" y="1000" fill="none"
+width="50" height="50"/>
+<rect id="connector19pin" x="850" y="1100" fill="none"
+width="50" height="50"/>
+<rect id="connector0terminal" x="100" y="200" fill="none"
+width="50" height="50"/>
+<rect id="connector1terminal" x="100" y="300" fill="none"
+width="50" height="50"/>
+<rect id="connector2terminal" x="100" y="400" fill="none"
+width="50" height="50"/>
+<rect id="connector3terminal" x="100" y="500" fill="none"
+width="50" height="50"/>
+<rect id="connector4terminal" x="100" y="600" fill="none"
+width="50" height="50"/>
+<rect id="connector5terminal" x="100" y="700" fill="none"
+width="50" height="50"/>
+<rect id="connector6terminal" x="100" y="900" fill="none"
+width="50" height="50"/>
+<rect id="connector7terminal" x="100" y="1000" fill="none"
+width="50" height="50"/>
+<rect id="connector8terminal" x="100" y="1100" fill="none"
+width="50" height="50"/>
+<rect id="connector9terminal" x="100" y="1200" fill="none"
+width="50" height="50"/>
+<rect id="connector10terminal" x="850" y="200" fill="none"
+width="50" height="50"/>
+<rect id="connector11terminal" x="850" y="300" fill="none"
+width="50" height="50"/>
+<rect id="connector12terminal" x="850" y="400" fill="none"
+width="50" height="50"/>
+<rect id="connector13terminal" x="850" y="500" fill="none"
+width="50" height="50"/>
+<rect id="connector14terminal" x="850" y="600" fill="none"
+width="50" height="50"/>
+<rect id="connector15terminal" x="850" y="700" fill="none"
+width="50" height="50"/>
+<rect id="connector16terminal" x="850" y="800" fill="none"
+width="50" height="50"/>
+<rect id="connector17terminal" x="850" y="900" fill="none"
+width="50" height="50"/>
+<rect id="connector18terminal" x="850" y="1000" fill="none"
+width="50" height="50"/>
+<rect id="connector19terminal" x="850" y="1100" fill="none"
+width="50" height="50"/>
+<g
+       style="font-size:70px;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;stroke:none;font-family:DroidSans"
+       id="label0"
+       font-size="70">
+	   <rect
+       width="600"
+       x="200"
+       y="0"
+       height="1300"
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2873" />
+	<text
+         x="300"
+         y="100"
+         >RSi2c v1 rev2</text>
+    <text
+         x="220"
+         y="250"
+         >GND</text>
+	<text
+         x="220"
+         y="350"
+         >VCC</text>
+	<text
+         x="220"
+         y="450"
+         >MISO</text>
+	<text
+         x="220"
+         y="550"
+         >SCK</text>
+	<text
+         x="220"
+         y="650"
+         >RST</text>
+	<text
+         x="220"
+         y="750"
+         >MOSI</text>
+	<text
+         x="220"
+         y="950"
+         >GND</text>
+	<text
+         x="220"
+         y="1050"
+         >VCC</text>
+	<text
+         x="220"
+         y="1150"
+         >SDA</text>
+	<text
+         x="220"
+         y="1250"
+         >SCL</text>
+	<text
+         x="650"
+         y="250"
+         >P0</text>
+	<text
+         x="650"
+         y="350"
+         >P1</text>
+	<text
+         x="650"
+         y="450"
+         >P2</text>
+	<text
+         x="650"
+         y="550"
+         >P3</text>
+	<text
+         x="650"
+         y="650"
+         >P4</text>
+	<text
+         x="650"
+         y="750"
+         >P5</text>
+	<text
+         x="650"
+         y="850"
+         >P6</text>
+	<text
+         x="650"
+         y="950"
+         >P7</text>
+	<text
+         x="650"
+         y="1050"
+         >GND</text>
+	<text
+         x="650"
+         y="1150"
+         >VCC</text>
+	<line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="225"
+       x1="150"
+       y2="225"
+       x2="200" />
+	<line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="325"
+       x1="150"
+       y2="325"
+       x2="200" />
+	<line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="425"
+       x1="150"
+       y2="425"
+       x2="200" />
+	<line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="525"
+       x1="150"
+       y2="525"
+       x2="200" />
+	<line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="625"
+       x1="150"
+       y2="625"
+       x2="200" />
+	<line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="725"
+       x1="150"
+       y2="725"
+       x2="200" />
+	<line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="925"
+       x1="150"
+       y2="925"
+       x2="200" />
+	<line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="1025"
+       x1="150"
+       y2="1025"
+       x2="200" />
+	 <line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="1125"
+       x1="150"
+       y2="1125"
+       x2="200" />
+	  <line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="1225"
+       x1="150"
+       y2="1225"
+       x2="200" />
+	   <line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="225"
+       x1="800"
+       y2="225"
+       x2="850" />
+	   <line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="325"
+       x1="800"
+       y2="325"
+       x2="850" />
+	  <line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="425"
+       x1="800"
+       y2="425"
+       x2="850" />
+	   <line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="525"
+       x1="800"
+       y2="525"
+       x2="850" />
+	   <line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="625"
+       x1="800"
+       y2="625"
+       x2="850" />
+	   <line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="725"
+       x1="800"
+       y2="725"
+       x2="850" />
+	   <line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="825"
+       x1="800"
+       y2="825"
+       x2="850" />
+	   <line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="925"
+       x1="800"
+       y2="925"
+       x2="850" />
+	   <line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="1025"
+       x1="800"
+       y2="1025"
+       x2="850" />
+	   <line
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+       y1="1125"
+       x1="800"
+       y2="1125"
+       x2="850" />
+    </g>
+</g>
+</svg>
